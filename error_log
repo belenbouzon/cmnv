@@ -1,0 +1,5 @@
+[04-Sep-2018 18:33:31 Etc/GMT+3] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/leocmnv/public_html/adaptive-images.php on line 193
+[04-Sep-2018 18:33:32 Etc/GMT+3] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/leocmnv/public_html/adaptive-images.php:193) in /home/leocmnv/public_html/adaptive-images.php on line 63
+[04-Sep-2018 18:33:32 Etc/GMT+3] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/leocmnv/public_html/adaptive-images.php:193) in /home/leocmnv/public_html/adaptive-images.php on line 65
+[04-Sep-2018 18:33:32 Etc/GMT+3] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/leocmnv/public_html/adaptive-images.php:193) in /home/leocmnv/public_html/adaptive-images.php on line 66
+[04-Sep-2018 18:33:32 Etc/GMT+3] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/leocmnv/public_html/adaptive-images.php:193) in /home/leocmnv/public_html/adaptive-images.php on line 67

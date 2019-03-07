@@ -1,0 +1,116 @@
+/* *********************************************
+CMNV
+********************************************* */
+
+/* CSS reseteo */
+
+HTML , body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, labe, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-weight: inherit;
+font-style: inherit;
+font-size: 100%;
+font-family: inherit;
+}
+/* remember to define focus styles! */
+:focus {
+outline: 0;
+}
+body {
+line-height: 1;
+color: black;
+background: white;
+}
+ol, ul {
+list-style: none;
+}
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+border-collapse: separate;
+border-spacing: 0;
+}
+caption, th, td {
+font-weight: normal;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+content: "";
+}
+blockquote, q {
+quotes: "" "";
+}
+
+/* CSS start */
+
+p { font: normal 14px/17px Arial, sans-serif; color: #FFF; margin-bottom:6px }
+html { height: 100%; }
+.clear { clear:both }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+div { font: normal 14px/17px Arial, sans-serif; color: #FFF;  }
+strong { font: Arial, sans-serif; font-weight:bold; }
+
+::selection {
+background: #24A6DF;
+color: white;
+text-shadow: none;
+}
+
+/* MAQUETADO PRINCIPAL */
+
+a:link, a:visited, a:hover, a:active {
+	color: #FFF; text-decoration:underline;
+	}
+a:hover{
+	color: #FFF; text-decoration:none;
+	}
+
+body {	
+	font: normal 14px/17px Arial, sans-serif; color: #FFF;
+	background-color: #000;
+	height: 100%;
+    background-size:cover;
+	-moz-background-size:cover;
+	-webkit-background-size:cover;
+	}
+
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+.wrapper {
+	position: relative;
+	display: table;
+	padding: 0 10%;
+	width: 80%;
+	overflow:hidden;
+	margin-bottom: 0px;
+	height: auto!important;
+	min-height: 100%;
+	height: 100%;
+	}
+
+
+	
+.content {
+	display:inline; position:relative;
+	float:left;
+	width: 100%;
+	margin:0px 0 0 0;
+	padding: 0 20px 0 0;
+	height:500px
+	}
+

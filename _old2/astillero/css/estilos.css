@@ -1,0 +1,140 @@
+/*
+	http://www.cmnv.com.ar
+	Version: 1.8.9
+	nicorisso
+	
+*/
+/* CSS reseteo */
+
+HTML , body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-weight: inherit;
+font-style: inherit;
+font-size: 100%;
+font-family: inherit;
+}
+/* remember to define focus styles! */
+:focus {
+outline: 0;
+}
+body {
+line-height: 1;
+color: black;
+background: white;
+}
+ol, ul {
+list-style: none;
+}
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+border-collapse: separate;
+border-spacing: 0;
+}
+caption, th, td {
+text-align: left;
+font-weight: normal;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+content: "";
+}
+blockquote, q {
+quotes: "" "";
+}
+
+
+/******************  FONTFACE  ***********************/
+
+/******************  GENERAL  ***********************/
+
+.clear { clear:both;}
+
+body {
+	background-color: #000;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	color: #fff;
+	margin: 0px;
+	padding: 0px;
+}
+
+a:hover { text-decoration:none }
+
+div {  }
+
+.img-responsive { max-width: 100%; height: auto }
+
+strong {  }
+
+p { margin: 0 0 5px 0}
+
+.informacion, .informacion a { color: #858998; font-size: 13px; line-height: 16px;}
+
+.footer { color: #858998; font-size: 13px; line-height: 16px;}
+.footer a { color: #FFF; font-size: 13px; line-height: 16px;}
+
+.wrapper { margin:0 auto; max-width:900px; min-width:300px; overflow:hidden }
+
+.img-astillero { height: auto }
+
+.padding-uno { margin:65px 0 0 0; }
+
+label { padding: 3px 0 10px; display:block }
+.inputs {
+	  background-color: #FFFFFF;
+	  
+	  border:inherit;
+	  border-bottom: 1px solid #001530;
+	  color: #001530;
+	  font: normal 13px/16px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	  padding: 5px;
+	  height: 15px;
+	}
+.btn {
+  color: #001530;
+  font-size: 16px;
+  background: #FFF;
+  padding: 7px 20px 7px 20px;
+  text-decoration: none;
+  border: inherit;
+  cursor: pointer;
+  font: normal 27px/35px 'Cormorant Garamond', Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  opacity:1; 
+}
+.btn:hover { opacity: 0.7; }
+
+.line { width:46%; float:left; display:inline; padding:2%; }
+
+a.link-astillero { text-decoration:none; font-family:'Cormorant Garamond', Georgia, 'Times New Roman', Times, serif; font-style:italic; color:#FFF; font-size:27px; line-height:35px; opacity:1; font-weight:bold; }
+a.link-astillero:hover { opacity:0.7 }
+
+@media only screen
+and (max-width : 940px) { 
+body { padding:0 20px}
+}
+
+@media only screen
+and (max-width : 700px) { 
+.wrapper { margin:0 auto; max-width:500px; min-width:300px; padding:0 20px }
+.img-astillero { width:235px }
+.padding-uno { margin:45px 0 0 0; }
+
+.line { width:100%; display:block }
+
+}
+
+@media only screen
+and (min-width : 1400px) { 
+
+}

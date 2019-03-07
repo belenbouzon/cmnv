@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'dinengschrift';
+    src: url('http://www.fernandezlacort.com.ar/wp-content/themes/fl/fonts/dinengschrift-webfont.eot');
+    src: url('http://www.fernandezlacort.com.ar/wp-content/themes/fl/fonts/dinengschrift-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.fernandezlacort.com.ar/wp-content/themes/fl/fonts/dinengschrift-webfont.woff') format('woff'),
+         url('http://www.fernandezlacort.com.ar/wp-content/themes/fl/fonts/dinengschrift-webfont.ttf') format('truetype'),
+         url('http://www.fernandezlacort.com.ar/wp-content/themes/fl/fonts/dinengschrift-webfont.svg#dinengschrift') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body#tinymce.wp-editor { 
+    font-family: Arial, Helvetica, sans-serif; 
+    margin: 10px; 
+}
+ 
+body#tinymce.wp-editor a {
+    color: #4CA6CF;
+}
+
+
+
+
+/* Pongo las clases */
+
+.titulo-uno {  }
+.titulo-dos {  }
+.titulo-tres {  }
+.txt-grande {  }
+.txt-normal {  }
+.color-azul {  }
+.color-amarillo {  }
+.color-verde {  }
+.color-rojo {  }
+
+/* Clases para que se vea en el editor */
+
+body#tinymce.wp-editor .titulo-uno { font:normal 40px/40px 'dinengschrift', Helvetica, Arial, sans-serif;  margin:0 0 25px 0; display:block }
+body#tinymce.wp-editor .titulo-dos { font:normal 30px/30px 'dinengschrift', Helvetica, Arial, sans-serif; margin:0 0 15px 0; display:block }
+body#tinymce.wp-editor .titulo-tres { font:bold 16px/21px Helvetica, Arial, sans-serif; margin:0 0 15px 0; display:block }
+body#tinymce.wp-editor .txt-grande { font: normal 25px/27px 'dinengschrift', Helvetica, Arial, sans-serif; margin:0 0 15px 0; display:block }
+body#tinymce.wp-editor .txt-normal { font: normal 16px/21px Helvetica, Arial, sans-serif; margin:0 0 15px 0; display:block }
+body#tinymce.wp-editor .color-azul { color:#202F62 }
+body#tinymce.wp-editor .color-amarillo { color:#FDBC00 }
+body#tinymce.wp-editor .color-verde { color:#109CA1 }
+body#tinymce.wp-editor .color-rojo { color:#EB4A44 }
+
+body#tinymce.wp-editor ul li {
+    padding: 3px 0px 0px 5px;
+    margin: 0px 0px 5px 20px;
+    list-style: url(../images/bullet.gif);
+    font: normal 25px/27px 'dinengschrift', Helvetica, Arial, sans-serif;
+    color: #595959;
+}

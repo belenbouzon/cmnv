@@ -485,7 +485,7 @@
             <div class="footer-item hidden-xs">
                 CMNV - COMUNIDAD DE INVERSIÓN<br>+54 11 6009 7300 / <a href="mailto:info@cmnv.com.ar" style="color:#999;">info@cmnv.com.ar</a><br>Zufriategui 627 Piso 4 / Bs As / Arg
             </div>
-            <div class="footer-mobile hidden-md hidden-lg">CMNV - COMUNIDAD DE INVERSIÓN</div>
+            <!-- <div class="footer-mobile hidden-md hidden-lg">CMNV - COMUNIDAD DE INVERSIÓN</div> --
         </div>
         <div class="footer-der">
             <a target="_blank" href="https://www.facebook.com/astillerocatalinassur"><img src="images/ico-rrss-facebook.jpg" width="25px" /></a>&nbsp;&nbsp;&nbsp;

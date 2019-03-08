@@ -10,8 +10,8 @@
   <!-- TITLE OUT -->
 
   <!-- METATAGS IN -->
-  <meta name="title" content="CMNV // Comunidad de Inversión">
-  <meta name="description" content="Movemos el suelo. Lo transformamos. Apasionados por el diseño, la calidad y el respeto por el lugar que habitamos. Comunidad de inversión • Desarrollos inmobiliarios.">
+  <meta name="title" content="CMNV // Comunidad de InversiÃ³n">
+  <meta name="description" content="Movemos el suelo. Lo transformamos. Apasionados por el diseÃ±o, la calidad y el respeto por el lugar que habitamos. Comunidad de inversiÃ³n â€¢ Desarrollos inmobiliarios.">
   <meta name="keywords" content="
 "departamentos en san telmo"
 "propiedades de pozo"
@@ -19,10 +19,10 @@
 "deptos en pozo"
 ''departamento en pozo capital federal''
  +comprar +departamento en capital federal
-[Inversión en puerto madero]
+[InversiÃ³n en puerto madero]
 "venta de departamentos en pozo"
 "departamentos en pozo"
- +inversión
+ +inversiÃ³n
 [Proyectos Inmobiliario]
  +desarrollo inmobiliario
  +comprar departamento en pozo
@@ -33,10 +33,10 @@
 "departamentos en Puerto madero"
 [Paseo del bajo]
 "departamentos financiados"
-[Propiedades bajo porteño]
+[Propiedades bajo porteÃ±o]
  +comprar +departamento en capital federal
 [Departamentos en pesos]
-[venta de departamento bajo porteño]
+[venta de departamento bajo porteÃ±o]
 "departamentos en pozo"
 "comprar departamento de pozo"
 "departamentos en venta en pozo"
@@ -45,19 +45,19 @@
 [departamentos en catalinas]
  +studios +capital federal
 +edificios en pozo capital federal"
-"venta de departamentos con financiación"
+"venta de departamentos con financiaciÃ³n"
  +comprar departamento en capital federal
 [Astillero catalinas sur]
-"venta de departamentos con financiación"
+"venta de departamentos con financiaciÃ³n"
 "comprar departamento de pozo"
  +compra departamento en pozo
 [Emprendimientos inmobiliarios]
 "venta de departamentos en pozo"
 [Emprendimiento en puerto madero]
-[Bajo porteño departamentos]
-"departamentos con financiación en pesos"
+[Bajo porteÃ±o departamentos]
+"departamentos con financiaciÃ³n en pesos"
  +desarrollo inmobiliario
-[Inversión en san telmo]
+[InversiÃ³n en san telmo]
 [Proyecto en san telmo]
 [venta de Duplex capital federal]">
   <meta name="distribution" content="Global">
@@ -175,9 +175,9 @@ s.parentNode.insertBefore(b, s);})();
     <div class="footer" style="position:absolute; bottom:0; left:0; right:0; width:100%; z-index:99999">
         <div class="footer-izq">
             <div class="footer-item hidden-xs">
-                CMNV - COMUNIDAD DE INVERSIÓN<br>+54 11 6009 7300 / <a href="mailto:info@cmnv.com.ar" style="color:#999;">info@cmnv.com.ar</a><br>Zufriategui 627 Piso 4 / Bs As / Arg
+                CMNV - COMUNIDAD DE INVERSIÃ“N<br>+54 11 6009 7300 / <a href="mailto:info@cmnv.com.ar" style="color:#999;">info@cmnv.com.ar</a><br>Zufriategui 627 Piso 4 / Bs As / Arg
             </div>
-            <div class="footer-mobile hidden-md hidden-lg">CMNV - COMUNIDAD DE INVERSIÓN</div>
+            <!-- <div class="footer-mobile hidden-md hidden-lg">CMNV - COMUNIDAD DE INVERSIÃ“N</div> --
         </div>
         <div class="footer-der">
             <a target="_blank" href="https://www.facebook.com/astillerocatalinassur"><img src="images/ico-rrss-facebook.jpg" width="25px" /></a>&nbsp;&nbsp;&nbsp;

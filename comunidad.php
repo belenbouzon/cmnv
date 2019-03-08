@@ -53,7 +53,7 @@
 </head>
 
 <body
-      style="background-image:url(images/bg-contentcomunidad.jpg); background-repeat:no-repeat; background-attachment:fixed; background-position:center; 
+      style="background-image:url(images/bg-contentcontacto.jpg); background-repeat:no-repeat; background-attachment:fixed; background-position:center; 
 	-webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

@@ -16,13 +16,13 @@
 	</script>
 
 	<!-- TITLE IN -->
-	<title>CMNV // Comunidad de Inversi髇</title>
+	<title>CMNV // Comunidad de Inversi贸n</title>
 	<!-- TITLE OUT -->
 
 	<!-- METATAGS IN -->
-	<meta name="title" content="CMNV // Comunidad de Inversi髇">
-	<meta name="description" content="CMNV // Comunidad de Inversi髇">
-	<meta name="keywords" content="CMNV // Comunidad de Inversi髇">
+	<meta name="title" content="CMNV // Comunidad de Inversi贸n">
+	<meta name="description" content="CMNV // Comunidad de Inversi贸n">
+	<meta name="keywords" content="CMNV // Comunidad de Inversi贸n">
 	<meta name="distribution" content="Global">
 	<!-- METATAGS OUT -->
 
@@ -116,7 +116,7 @@
 				<!--FORMULARIO-->
 				<div class="col-md-6" data-animation="" data-animation-delay="">
 					<div class="row m-t-80">
-						<p>縌ueres saber m醩 sobre nuestros nuevos proyectos?</p>
+						<p>驴Queres saber m谩s sobre nuestros nuevos proyectos?</p>
 					</div>
 					<div id="formulario" class="line" style="margin-top:30px; text-align:center; ">
 		                <form method="POST" enctype="multipart/form-data" action="encarpeta.php#formulario">                            
@@ -177,9 +177,9 @@
     <div class="footer m-t-100">
         <div class="footer-izq">
             <div class="footer-item hidden-xs">
-                CMNV - COMUNIDAD DE INVERSION<br>+54 11 6009 7300 / <a href="mailto:info@cmnv.com.ar" style="color:#999;">info@cmnv.com.ar</a><br>Zufriategui 627 Piso 4 / Bs As / Arg
+                CMNV - COMUNIDAD DE INVERSI脫N<br>+54 11 6009 7300 / <a href="mailto:info@cmnv.com.ar" style="color:#999;">info@cmnv.com.ar</a><br>Zufriategui 627 Piso 4 / Bs As / Arg
             </div>
-            <div class="footer-mobile hidden-md hidden-lg">CMNV - COMUNIDAD DE INVERSION</div>
+            <div class="footer-mobile hidden-md hidden-lg">CMNV - COMUNIDAD DE INVERSI脫N</div>
         </div>
         <div class="footer-der">
             <a target="_blank" href="https://www.facebook.com/astillerocatalinassur"><img src="images/ico-rrss-facebook.jpg" width="25px" /></a>&nbsp;&nbsp;&nbsp;

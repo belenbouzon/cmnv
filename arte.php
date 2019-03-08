@@ -6,13 +6,13 @@
 	<meta content="width=device-width,initial-scale=1.0" name="viewport">
 
 	<!-- TITLE IN -->
-	<title>CMNV // Comunidad de Inversi髇</title>
+	<title>CMNV // Comunidad de Inversi贸n</title>
 	<!-- TITLE OUT -->
 
 	<!-- METATAGS IN -->
-	<meta name="title" content="CMNV // Comunidad de Inversi髇">
-	<meta name="description" content="CMNV // Comunidad de Inversi髇">
-	<meta name="keywords" content="CMNV // Comunidad de Inversi髇">
+	<meta name="title" content="CMNV // Comunidad de Inversi贸n">
+	<meta name="description" content="CMNV // Comunidad de Inversi贸n">
+	<meta name="keywords" content="CMNV // Comunidad de Inversi贸n">
 	<meta name="distribution" content="Global">
 	<!-- METATAGS OUT -->
 
@@ -85,7 +85,7 @@
             <div class="empresa-content-descripcion">
                 <h1 style="font: normal 40px/45px 'Questrial', 'Helvetica Neue', Helvetica, Arial, sans-serif; margin:20px 0">Arte</h1>
         		<div class="small-separator"></div>
-                <p>Llamamos al artista <a target="_blank" href="http://www.jorgeminio.com/">Jorge Mi駉</a> para que retrate el barrio de nuestro proyecto <a href="http://www.cmnv.com.ar/astillero.php">#Astillero</a></p>
+                <p>Llamamos al artista <a target="_blank" href="http://www.jorgeminio.com/">Jorge Mi帽o</a> para que retrate el barrio de nuestro proyecto <a href="http://www.cmnv.com.ar/astillero.php">#Astillero</a></p>
         	</div>
 
         	<!--GALERIA-->
@@ -315,9 +315,9 @@
     <div class="footer">
         <div class="footer-izq">
             <div class="footer-item hidden-xs">
-                CMNV - COMUNIDAD DE INVERSION<br>+54 11 6009 7300 / <a href="mailto:info@cmnv.com.ar" style="color:#999;">info@cmnv.com.ar</a><br>Zufriategui 627 Piso 4 / Bs As / Arg
+                CMNV - COMUNIDAD DE INVERSI脫N<br>+54 11 6009 7300 / <a href="mailto:info@cmnv.com.ar" style="color:#999;">info@cmnv.com.ar</a><br>Zufriategui 627 Piso 4 / Bs As / Arg
             </div>
-            <div class="footer-mobile hidden-md hidden-lg">CMNV - COMUNIDAD DE INVERSION</div>
+            <div class="footer-mobile hidden-md hidden-lg">CMNV - COMUNIDAD DE INVERSI脫N</div>
         </div>
         <div class="footer-der">
             <a target="_blank" href="https://www.facebook.com/astillerocatalinassur"><img src="images/ico-rrss-facebook.jpg" width="25px" /></a>&nbsp;&nbsp;&nbsp;

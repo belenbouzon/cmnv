@@ -102,12 +102,12 @@
             <!--FORMULARIO-->
             <div id="formulario" class="line" style="margin-top:30px; text-align:center; ">
                 <form method="POST" enctype="multipart/form-data" action="contacto.php#formulario">                            
-                    <label style="width: 80%;"><input name="nombre" type="text" value="" placeholder="Nombre" class="inputs" style="width: 90%; background-color: transparent; color: #FFF; text-align: center;" required=""></label><br>
-                    <label style="width: 80%;"><input name="mail" type="email" value="" placeholder="Mail" class="inputs" style="width: 90%; background-color: transparent; color: #FFF; text-align: center;" required=""></label><br>
-                    <label style="width: 80%;"><input name="telefono" type="text" value="" placeholder="Telefono" class="inputs" style="width: 90%; background-color: transparent; color: #FFF; text-align: center;" required=""></label><br>
+                    <label style="width: 80%;"><input name="nombre" type="text" value="" placeholder="Nombre" class="inputs contacto" style="width: 90%; background-color: transparent; color: #FFF; text-align: center;" required=""></label><br>
+                    <label style="width: 80%;"><input name="mail" type="email" value="" placeholder="Mail" class="inputs contacto" style="width: 90%; background-color: transparent; color: #FFF; text-align: center;" required=""></label><br>
+                    <label style="width: 80%;"><input name="telefono" type="text" value="" placeholder="Teléfono" class="inputs contacto" style="width: 90%; background-color: transparent; color: #FFF; text-align: center;" required=""></label><br>
                     
                     <label style="width: 80%;">
-                    	<textarea name="comentarios" type="text" value="" placeholder="Escribí aquí tu consulta" class="inputs" style="width: 90%; height:140px; background-color: transparent; color: #FFF; text-align: center;" required=""></textarea>
+                    	<textarea name="comentarios" type="text" value="" placeholder="¿En qué te podemos ayudar?" class="inputs contacto" style="width: 90%; height:140px; background-color: transparent; color: #FFF; text-align: center;" required=""></textarea>
                     </label><br>
 
                     <label style="text-align:center; padding:0"><input type="submit" class="btn" value="Enviar" onClick="ga('send', 'event', 'Enviar', 'Boton', '1');" style="margin:20px 0px 0 0px; font-weight:bold"></label>           
@@ -120,7 +120,7 @@
             </div>
             <!--END: FORMULARIO-->
             
-        	<span style=" margin:20px 0 10px;  display:block">Juan Zufriategui 627, Piso 5, Vicente López, Buenos Aires, Argentina</span>
+        	<span style=" margin:20px 0 10px;  display:block">Juan Zufriategui 627, Piso 4, Vicente López, Buenos Aires, Argentina</span>
 			<span style="font: normal 25px/30px 'Questrial', 'Helvetica Neue', Helvetica, Arial, sans-serif; margin:10px 0; display:block">+54 11 6009 7300</span>
         </div>        
     </div>

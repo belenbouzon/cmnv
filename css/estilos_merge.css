@@ -191,6 +191,11 @@ label { padding: 5px 0 15px; display:block; /*text-align: left;*/}
 	  padding: 5px;
 	  height: 15px;
 	}
+
+.contacto {
+      font: normal 18px 'Questrial', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
 .btn { background-color: #0A1330; border:inherit; color: #FFF; padding: 10px 20px; cursor:pointer; font: normal 13px/16px 'Questrial', 'Helvetica Neue', Helvetica, Arial, sans-serif;}  
 
 .maps iframe{

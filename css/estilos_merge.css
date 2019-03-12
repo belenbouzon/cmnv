@@ -133,14 +133,14 @@ p { margin: 0 0 8px 0}
 .placa-slider-txt {position:absolute; z-index:99999; background-color: rgba(0, 0, 0, 0.8); color:#FFF; padding:30px; font: normal 31px/38px 'EB Garamond', 'Helvetica Neue', Helvetica, Arial, sans-serif;}
 
 .slider-uno-data {  /*max-width:940px; margin:50px auto 40px*/ padding: 50px; background-color: #0a1330; }
-.slider-uno-data p {  color:#fff; font: normal 19px/25px 'EB Garamond', 'Helvetica Neue', Helvetica, Arial, sans-serif;  }
-.slider-uno-data-content { max-width: 940px; margin: auto;}
+/*.slider-uno-data p {  color:#fff; font: normal 19px/25px 'EB Garamond', 'Helvetica Neue', Helvetica, Arial, sans-serif;  }
+*/.slider-uno-data-content { max-width: 940px; margin: auto;}
 .slider-dos-data {  max-width:940px; margin:40px auto 40px; }
 .slider-dos-data p {  color:#fff; font: normal 19px/25px 'EB Garamond', 'Helvetica Neue', Helvetica, Arial, sans-serif;  }
 
 .data-amenities, .data-unidades { max-width:940px; margin:0px auto 50px; display:block; position:relative; padding-top: 30px; text-align: left; }
-.data-amenities h2, .data-unidades h2 { color:#0a1330; font: bold 27px/35px 'Cormorant Garamond', Georgia, 'Times New Roman', Times, serif !important; font-style: italic !important; margin:0 0 20px 0; font-style:italic }
-.data-amenities p, .data-unidades p { color:#fff; font: normal 19px/25px 'EB Garamond', 'Helvetica Neue', Helvetica, Arial, sans-serif; margin:0 0 20px 0 }
+/*.data-amenities h2, .data-unidades h2 { color:#0a1330; font: bold 27px/35px 'Cormorant Garamond', Georgia, 'Times New Roman', Times, serif !important; font-style: italic !important; margin:0 0 20px 0; font-style:italic }
+*/.data-amenities p, .data-unidades p { color:#fff; font: normal 19px/25px 'EB Garamond', 'Helvetica Neue', Helvetica, Arial, sans-serif; margin:0 0 20px 0 }
 .data-amenities ul, .data-unidades ul { margin: 20px 0 }
 .data-amenities ul li, .data-unidades ul li { color:#A3A8B5; font: normal 13px/16px 'Questrial', 'Helvetica Neue', Helvetica, Arial, sans-serif; margin:0 0 5px 0 }
 
@@ -157,7 +157,11 @@ p { margin: 0 0 8px 0}
 .zone-contact-ubicacion { float: left; width:48%; padding:25px; text-align:left }
 .zone-contact-ubicacion h2 { font: normal 25px/30px 'Questrial', 'Helvetica Neue', Helvetica, Arial, sans-serif; margin:0 0 20px 0 }
 .zone-contact-form { float: left; width:48%; padding:25px; text-align:left }
-.zone-contact-form h2 { font: bold 27px/35px 'Cormorant Garamond', Georgia, 'Times New Roman', Times, serif !important; font-style: italic !important; margin:0 0 20px 0; color: #0A1330 }
+.zone-contact-form h2 { font: normal 25px/30px 'Questrial', 'Helvetica Neue', Helvetica, Arial, sans-serif; margin:0 0 20px 0; color: #0A1330 }
+
+
+.direccion { float: left; width:48%; padding:25px; text-align:left }
+.direccion h2 { font: normal 20px/25px 'Questrial', 'Helvetica Neue', Helvetica, Arial, sans-serif; margin:0 0 20px 0 }
 
 .zone-contact-logos { display:block; width:100%; clear:both; margin:15px 0; overflow:hidden}
 .zone-contact-logos-item { float:left; width: 31.3%; padding:0 1%; text-align:center }
@@ -171,7 +175,7 @@ p { margin: 0 0 8px 0}
 .zone-contact-logos-item-logoedfan { text-align:center }
 
 
-.zone-contact-logos-item-txt { color:#8D8F92; margin:0 auto 15px; font: bold 16px/20px 'Cormorant Garamond', Georgia, 'Times New Roman', Times, serif; font-style:italic}
+.zone-contact-logos-item-txt { color:#8D8F92; margin:0 auto 15px; font: normal 16px/20px 'Questrial', 'Helvetica Neue', Helvetica, Arial, sans-serif}
 
 
 .footer { overflow:hidden; display:block; position:relative; background-color:#000; width:100%; min-height:20px; color:#999; font: normal 12px/20px 'Questrial', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align:left; padding:25px 0 10px 0; border-top: 1px solid #333;}

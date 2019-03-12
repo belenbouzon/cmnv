@@ -123,7 +123,7 @@
       <div class="zone-contact-top">
         <div id="consultas" class="zone-contact-form"> <img class="img-responsive" src="images/astillero_fachada.jpg" />
           <h2 class="m-t-30">Contacto</h2>
-          <div style="color:#0A1330; font: bold italic 25px/27px 'Cormorant Garamond', Georgia, 'Times New Roman', Times, serif;"><a href="tel:+54 11 60097300" style="color:#0A1330; text-decoration: none;">Oficina: +54 11 60097300</a><p><a href="https://api.whatsapp.com/send?phone=541130333111" style="color:#0A1330; text-decoration: none;">Whatsapp: +54 11 30333111</a></p> <p><a href="mailto:ventas@cmnv.com.ar" style="color:#0A1330; text-decoration: none;">ventas@cmnv.com.ar</a></p> </div>
+          <div style="color:#0A1330; font:normal 20px/25px 'Questrial', 'Helvetica Neue', Helvetica, Arial, sans-serif"><a href="tel:+54 11 60097300" style="color:#0A1330; text-decoration: none;">Oficina: +54 11 60097300</a><p><a href="https://api.whatsapp.com/send?phone=541130333111" style="color:#0A1330; text-decoration: none;">Whatsapp: +54 11 30333111</a></p> <p><a href="mailto:ventas@cmnv.com.ar" style="color:#0A1330; text-decoration: none;">ventas@cmnv.com.ar</a></p> </div>
           <div id="formulario" class="line m-t-40" style="background-color:#FFF; margin-top:30px; text-align:left; ">
             <form method="POST" enctype="multipart/form-data" action="astillero.php#formulario">
               <!-- <label><input type="checkbox" name="llamen" value="Yes" />Quiero que me LLAMEN</label>
@@ -160,7 +160,7 @@
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.248952656621!2d-58.36903738476988!3d-34.623148580454405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a334cdf7d1bf95%3A0xc43ac587e6fa756a!2sAzopardo+1337%2C+C1107ADW+CABA!5e0!3m2!1ses!2sar!4v1483987065938" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
             <!-- <a href="https://goo.gl/maps/QrMnKpkf3zG2" target="_blank"><img class="img-responsive" src="images/astillero_mapa.jpg"></a> -->
             <div class="data-amenities" id="amenities">
-              <h2>Azopardo 1337, Catalinas Sur<br />
+              <h2 style="color:#0A1330; font:normal 20px/25px 'Questrial', 'Helvetica Neue', Helvetica, Arial, sans-serif">Azopardo 1337, Catalinas Sur<br />
                 Ciudad de Buenos Aires, Argentina</h2>
               <!--                         <ul>
                             <li>AZOPARDO 1337, CIUDAD DE BUENOS AIRES</li>
